@@ -1,0 +1,1 @@
+This project should allow me to practice my git and HTML skills to create a simple recipe website.
