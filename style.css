@@ -1,0 +1,23 @@
+h1 {
+    font-family: "Brush Script MT", sans-serif;
+    font-weight: 700;
+    color: coral;
+}
+
+a:link {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-weight: 700;
+}
+
+a:visited {
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+    font-weight: 300;
+}
+
+a:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 900;
+}
